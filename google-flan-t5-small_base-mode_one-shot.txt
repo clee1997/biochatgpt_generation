@@ -1,0 +1,23 @@
+<< Model: google/flan-t5-small >>
+
+< PROMPT >
+
+evidence 0: There is currently no consensus on whether CADASIL mutations generate hyperactive or hypoactive Notch3 proteins with regard to downstream signaling or whether CADASIL mutations are neutral in terms of Notch signaling. Whereas the R169C mutation appeared to lead to hyperactive Notch signaling (see above), the R1031C or C455R mutations were instead shown to be hypoactive,36[1] 
+evidence 1: Our work confirms and highlights the relevance of NOTCH3 expression and signaling in pro-inflammatory macrophage activation and identified its prominent and specific role in the activation of NF-kB. A positive regulation between NOTCH and NF-kB signaling pathway has been described previously in macrophages isolated from patients with atherosclerosis. In those patients, and in contrast with our results,[5] 
+evidence 2: Niclosamide and derivatives - potent inhibitors of TMEM16A/F and Ca2+ signaling. NFA is a nonsteroidal anti-inflammatory compound that inhibits goblet cell degranulation and suppresses asthma phenotype (4, 27). ...This result suggests an antiinflammatory effect of niclosamide, which corresponds well to inhibition of allergic lung inflammation by the TMEM16A inhibitor benzbromarone (3, 31).[6] 
+evidence 3: The key findings of this study are that (a) Cl- fluxes mediated by the Ca2+gated channel TMEM16A are a crucial determinant of pericyte tone; (b) TMEM16A is activated during ischemia and evokes a long-lasting pericytemediated capillary constriction that reduces CBF and favors neutrophil and platelet stalling; (c) genetic analysis suggests that increased TMEM16A expression is associated with poor recovery after ischemic stroke (and the genetic proxy[7] 
+query: What is the therapeutic target for CADASIL? 
+summarize given evidences and query:TMEM16A is a therapeutic target for CADASIL. Ischemia in CADASIL activates TMEM16A, Ca2+ gated Cl- channel, which regulates pericyte tone and induces capillary constriction[1]. Potent inhibitors of TMEM16A, niclosamide has antiinflammtory effect[2]. Niclosamide can suppress enhance inflammation in CADASIL[3]. 
+
+evidence 0: Role of NOTCH3 Mutations in the Cerebral Small Vessel Disease Cerebral Autosomal Dominant Arteriopathy ... (Stroke 2018). There is currently no consensus on whether CADASIL mutations generate hyperactive or hypoactive Notch3 proteins with ...[1] 
+evidence 1: NOTCH3 signaling is essential for NF-kB activation in TLRactivated macrophages (Sci Rep 2020). Our work confirms and highlights the relevance of NOTCH3 expression and signaling in pro-inflammatory macrophage ...[5] 
+evidence 2: Niclosamide repurposed for the treatment of inflammatory airway disease (JCI Insight 2019). Niclosamide and derivatives - potent inhibitors of TMEM16A/F and Ca2+ signaling. NFA is a nonsteroidal antiinflammatory compound that inhibits goblet ...[6] 
+evidence 3: The Ca2+-gated channel TMEM16A amplifies capillary pericyte contraction and reduces ... (J Clin Invest. 2022). The key findings of this study are that (a) Cl- fluxes mediated by the Ca2+-gated channel TMEM16A are a crucial determinant of pericyte tone[7] 
+query: What is the therapeutic target for CADASIL? 
+summarize given evidences and query:
+
+< GENERATED >
+
+TMEM16A is a therapeutic target for CADASIL.
+
+###############################################################################################################################################################
