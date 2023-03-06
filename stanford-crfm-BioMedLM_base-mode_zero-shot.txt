@@ -1,0 +1,116 @@
+<< Model: stanford-crfm/BioMedLM >>
+
+< PROMPT >
+
+query: can nilvadipine help alleviate cadasil symptoms? 
+Answer the query: 
+
+< GENERATED >
+
+query: can nilvadipine help alleviate cadasil symptoms? 
+Answer the query: 
+Nilvadipine, a dihydropyridine calcium channel blocker, has been shown to be effective in the treatment of Raynaud's phenomenon (RP). Nilvadipine has also been shown to be effective in the treatment of systemic sclerosis (SSc)-associated pulmonary arterial hypertension (PAH). We report a case of SSc-associated PAH in which nilvadipine was effective in reducing pulmonary artery pressure and improving exercise tolerance. Nilvadipine may be an effective treatment option for SSc-associated PAH.Introduction {#sec1-1}
+============
+
+Atherosclerosis is a leading cause of morbidity and mortality worldwide.\[[@ref1][@ref2]\] Atherosclerosis is a chronic inflammatory disease characterized by the accumulation of lipids and fibrous elements in the arterial walls.\[[@ref3][@ref4][@ref5][@ref6][@ref7][@ref8][@ref9][@ref10][@ref11][@ref12][@ref13][@ref14][@ref15][@ref16][@ref17][@ref18][@ref19][@ref20][@ref21][@ref22][@ref23][@ref24][@ref25][@ref26][@ref27][@ref28][@ref29][@ref30][@ref31][@ref32][@ref33][@ref34][@ref35][@ref36][@ref37][@ref38][@ref39][@ref40][@ref41][@ref42][@ref43][@ref44][@ref45][@ref46][@ref47][@ref48][@ref49][@ref50][@ref51][@ref52][@ref53][@ref54][@ref55][@ref56][@ref57][@ref58][@ref59][@ref60][@ref61][@ref62][@ref63][@ref64][@ref65][@ref66][@ref67][@ref68][@ref69][@ref70][@ref71][@ref72][@ref73][@ref74][@ref75][@ref76][@ref77][@ref78][@ref
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: what are the potential therapeutic targets for cadasil? 
+Answer the query: 
+
+< GENERATED >
+
+query: what are the potential therapeutic targets for cadasil? 
+Answer the query: 
+Cadasil is a promising drug candidate for the treatment of Alzheimer's disease (AD). Cadasil is an acetylcholinesterase (AChE) inhibitor that also inhibits butyrylcholinesterase (BuChE). Cadasil has been shown to improve cognitive function in animal models of AD and to reduce Aβ(1-40) and Aβ(1-42) levels in the brains of Tg2576 mice. Cadasil is currently in phase II clinical trials for the treatment of mild-to-moderate AD. Cadasil is well tolerated and has a favorable safety profile. Cadasil is currently in phase II clinical trials for the treatment of mild-to-moderate AD. Cadasil is well tolerated and has a favorable safety profile. Cadasil is currently in phase II clinical trials for the treatment of mild-to-moderate AD. Cadasil is a promising drug candidate for the treatment of Alzheimer's disease (AD). Cadasil is an acetylcholinesterase (AChE) inhibitor that also inhibits butyrylcholinesterase (BuChE). Cadasil has been shown to improve cognitive function in animal models of AD and to reduce Aβ(1-40) and Aβ(1-42) levels in the brains of Tg2576 mice. Cadasil has been shown to improve cognitive function in animal models of AD and to reduce Aβ(1-40) and Aβ(1-42) levels in the brains of Tg2576 mice. Cadasil is currently in phase II clinical trials for the treatment of mild-to-moderate AD. Cadasil is well tolerated and has a favorable safety profile. Cadasil is currently in phase II clinical trials for the treatment of mild-to-moderate AD.1. Introduction {#sec1}
+===============
+
+In recent years, there has been a significant increase in the number of patients with diabetes mellitus (DM) worldwide \[[@B1], [@B2]\]. According to the International Diabetes Federation (IDF), the number of patients with DM worldwide was estimated to be 415 million in 2015, and this number is expected to increase to 642 million by 2040 \[[@B3]\]. DM is a metabolic disease characterized by hyperglycemia resulting from defects in
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: would SYK inhibition be potential treatment for cadasil? 
+Answer the query: 
+
+< GENERATED >
+
+query: would SYK inhibition be potential treatment for cadasil? 
+Answer the query: 
+SYK is a non-receptor tyrosine kinase that plays an important role in the regulation of B-cell receptor (BCR) signaling and B-cell activation. SYK inhibition has been shown to be effective in the treatment of B-cell malignancies, including chronic lymphocytic leukemia (CLL), Waldenström's macroglobulinemia (WM), and diffuse large B-cell lymphoma (DLBCL). Cadasil (GS-9973) is an orally bioavailable, potent, and selective SYK inhibitor being developed for the treatment of CLL, WM, and DLBCL. Cadasil is currently being evaluated in a phase I clinical trial in patients with CLL, WM, or DLBCL. This article summarizes the milestones in the development of cadasil leading to this first-in-human study in patients with CLL, WM, or DLBCL.Introduction {#Sec1}
+============
+
+Since the seminal work of Richard Feynman^[@CR1],[@CR2]^, there has been a great deal of interest in the possibility of controlling the quantum state of light^[@CR3]--[@CR8]^. In particular, it has been shown that it is possible to control the quantum state of a single photon^[@CR9]--[@CR12]^. However, the ability to control the quantum state of a large number of photons is still a challenge^[@CR13]--[@CR15]^.
+
+In this work, we demonstrate that it is possible to control the quantum state of a large number of photons. Our approach is based on the concept of quantum steering^[@CR16]--[@CR18]^, which is the ability to steer the quantum state of a single photon from one location to another. In particular, we show that it is possible to steer the quantum state of a large number of photons from one input port of a beam splitter (BS) to another.
+
+The concept of quantum steering is closely related to the concept of quantum entanglement^[@CR19],[@CR20]^. Quantum entanglement is a resource for quantum information processing^[@CR21],[@CR22]
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: What is the cause of the CADASIL? 
+Answer the query: 
+
+< GENERATED >
+
+query: What is the cause of the CADASIL? 
+Answer the query: 
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is caused by mutations in the NOTCH3 gene. The NOTCH3 gene is located on chromosome 19p13.1 and encodes a transmembrane receptor. NOTCH3 is expressed in vascular smooth muscle cells, pericytes, and endothelial cells. NOTCH3 plays an important role in the development of vascular smooth muscle cells and pericytes. NOTCH3 is also involved in the differentiation of vascular smooth muscle cells into the contractile phenotype. Mutations in the NOTCH3 gene lead to a reduction in the number of vascular smooth muscle cells and pericytes, as well as a reduction in the differentiation of vascular smooth muscle cells into the contractile phenotype, resulting in the loss of vascular smooth muscle cells and pericytes. The loss of vascular smooth muscle cells and pericytes leads to the degeneration of vascular smooth muscle cells and pericytes. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral small vessel disease (SVD). The loss of vascular smooth muscle cells and pericytes also leads to the degeneration of vascular smooth muscle cells and pericytes. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of vascular smooth muscle cells and pericytes causes the thickening of the vascular wall and narrowing of the vascular lumen, resulting in cerebral SVD. The degeneration of
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+
+< GENERATED >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query:  {#Sec1}
+==================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+
+< GENERATED >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+CADASIL is caused by mutations in the NOTCH3 gene. NOTCH3 is a single-pass transmembrane receptor expressed on vascular smooth muscle cells (VSMCs) and pericytes. NOTCH3 is activated by binding to one of its ligands, Jagged1, Jagged2, or Delta-like 4. NOTCH3 is cleaved by the γ-secretase complex, releasing the NOTCH3 intracellular domain (NICD3). NICD3 translocates to the nucleus, where it binds to the recombination signal binding protein for immunoglobulin kappa J region (RBPJ) and activates the transcription of NOTCH target genes, such as HES1, HEY1, HEY2, and HEYL. HES1 and HEY1/2 are basic helix-loop-helix (bHLH) transcription factors that negatively regulate the expression of smooth muscle cell (SMC) differentiation markers, such as α-smooth muscle actin (α-SMA) and smooth muscle myosin heavy chain (SMMHC). In addition, HES1 and HEY1/2 negatively regulate the expression of platelet-derived growth factor receptor-β (PDGFR-β), which is a receptor for platelet-derived growth factor (PDGF)-BB. PDGF-BB is a potent mitogen for VSMCs and pericytes. Therefore, HES1 and HEY1/2 negatively regulate the proliferation and migration of VSMCs and pericytes. Thus, NOTCH3 signaling negatively regulates the proliferation, migration, and differentiation of VSMCs and pericytes. In addition, NOTCH3 signaling negatively regulates the expression of vascular endothelial growth factor (VEGF) in VSMCs and pericytes. VEGF is a potent mitogen for VSMCs and pericytes. Therefore, NOTCH3 signaling negatively regulates the proliferation, migration, and differentiation of VSMCs and pericytes. In addition, NOTCH3 signaling negatively regulates the expression of VEGF in VSMCs and pericytes. Therefore, NOTCH3 signaling negatively regulates the proliferation, migration, and differentiation of VSMCs and pericytes. In addition, NOTCH3 signaling negatively regulates the expression of VEGF in VSMCs and pericytes. Therefore, NOTCH3 signaling negatively regulates the proliferation, migration, and differentiation of VSMCs and pericytes. In addition, NOTCH3 signaling negatively regulates the expression of VEGF in
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+
+< GENERATED >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+CADASIL is caused by mutations in the NOTCH3 gene, which encodes the Notch3 receptor. Notch3 is expressed in vascular smooth muscle cells, pericytes, and endothelial cells. CADASIL is characterized by progressive accumulation of granular osmiophilic material (GOM) in the smooth muscle cells of small arteries and arterioles in the brain, skin, and other organs. GOM is composed of the extracellular domain of the Notch3 receptor and its ligands, Jagged1 and Jagged2. GOM deposits in the vascular smooth muscle cells cause degeneration and death of the smooth muscle cells, leading to narrowing of the small arteries and arterioles. In addition, GOM deposits in the pericytes and endothelial cells cause degeneration and death of these cells, leading to loss of the blood-brain barrier (BBB) and formation of microbleeds and lacunes in the brain. The Notch3 receptor is also expressed in vascular smooth muscle cells, pericytes, and endothelial cells in the kidney, and GOM deposits in these cells cause degeneration and death of the vascular smooth muscle cells, pericytes, and endothelial cells, leading to narrowing of the small arteries and arterioles. In addition, GOM deposits in the pericytes and endothelial cells cause degeneration and death of these cells, leading to loss of the BBB and formation of microbleeds and lacunes in the kidney. The Notch3 receptor is also expressed in vascular smooth muscle cells, pericytes, and endothelial cells in the skin, and GOM deposits in these cells cause degeneration and death of the vascular smooth muscle cells, pericytes, and endothelial cells, leading to narrowing of the small arteries and arterioles. In addition, GOM deposits in the pericytes and endothelial cells cause degeneration and death of these cells, leading to loss of the BBB and formation of microbleeds and lacunes in the skin. The Notch3 receptor is also expressed in vascular smooth muscle cells, pericytes, and endothelial cells in the heart, and GOM deposits in these cells cause degeneration and death of the vascular smooth muscle cells, pericytes, and endothelial cells, leading to narrowing of the small arteries and arterioles. In addition, GOM deposits in the pericytes and endothelial cells cause degeneration and death of these cells, leading to loss of the BBB and formation of microbleeds and lacunes in the heart. The Notch3 receptor is also expressed in vascular smooth muscle
+
+###############################################################################################################################################################
+< PROMPT >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+
+< GENERATED >
+
+query: What is the therapeutic target for CADASIL? 
+Answer the query: 
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is caused by mutations in the NOTCH3 gene. NOTCH3 is expressed in vascular smooth muscle cells (VSMCs) and is involved in the regulation of VSMC proliferation, migration, and apoptosis. In CADASIL, NOTCH3 mutations result in the accumulation of NOTCH3 in VSMCs and the formation of granular osmiophilic material (GOM) in the extracellular matrix (ECM). GOM is thought to play a key role in the pathogenesis of CADASIL. However, the mechanisms by which NOTCH3 mutations lead to the accumulation of GOM in the ECM and the subsequent development of CADASIL are not fully understood. In this review, we discuss the roles of NOTCH3 and GOM in the pathogenesis of CADASIL, with a focus on the roles of NOTCH3 and GOM in VSMC proliferation, migration, and apoptosis. We also discuss the mechanisms by which NOTCH3 mutations lead to the accumulation of GOM in the ECM and the subsequent development of CADASIL.Introduction {#Sec1}
+============
+
+In the last decade, the number of patients with end-stage renal disease (ESRD) requiring renal replacement therapy (RRT) has been increasing worldwide \[[@CR1], [@CR2]\]. Patients with ESRD have a high risk of cardiovascular disease (CVD) \[[@CR3], [@CR4]\], and CVD is the leading cause of death in patients with ESRD \[[@CR5], [@CR6]\]. In addition, patients with ESRD have a higher risk of all-cause mortality than the general population \[[@CR7], [@CR8]\].
+
+Patients with ESRD have a higher prevalence of traditional CVD risk factors than the general population \[[@CR9]--[@CR11]\]. However, these traditional risk factors do not fully explain the increased risk of CVD in patients with ESRD \[[@CR12], [@CR13]\]. In addition, patients with ESRD have a higher prevalence of non-traditional CVD risk factors than the general population \[[@CR14]--[
+
+###############################################################################################################################################################
